@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles (Optional) */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7fafc;
+    /* Gunakan warna latar belakang yang serasi dengan Tailwind */
+}
